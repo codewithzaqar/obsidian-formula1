@@ -23,9 +23,8 @@ This theme is designed for those who want their workspace to feel fast, focused,
 > _Manual installation for now:_
 
 1. Download the `f1-obsidian.css` file from this repo
-2. Place it into your `.obsidian/themes/F1 Theme/` folder
-3. Activate it in Obsidian’s **Settings → Appearance → Themes**
-
+2. Place it into your `.obsidian/snippets` folder
+3. Activate it in Obsidian’s **Settings → Appearance → CSS Snippets** and turn on `f1-obsidian`
 ---
 
 ## ❤️ Thanks & Notes
