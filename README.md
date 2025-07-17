@@ -1,8 +1,8 @@
 # 🏎 F1 Alpha - An Obsidian Theme Inspired by Formula 1
 
-Welcome to **F1 Alpha**, a bold, high-contrast Obsidian theme inspired by the energy, precision, and style of modern Formula 1.
+Welcome to F1 Alpha, an Obsidian theme featuring high contrast alongside bold design inspired by modern Formula 1's style, energy, and precision. 
 
-This theme is designed for those who want their workspace to feel fast, focused, and dramatic - like sitting in the cockpit of a high-tech racing machine.
+This theme is designed even for those people who want for their workspace to feel more fast, more focused, and then dramatic. It gives the feeling of being seated in a fast racing vehicle.
 
 <img src="img/f1-obsidian-theme.jpg" /> <img src="img/f1-obsidian-theme1.jpg" /> 
 
